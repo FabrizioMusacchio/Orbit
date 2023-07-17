@@ -2,6 +2,7 @@
 
 This repository contains the code for the blog post on [Runge-Kutta methods for solving ODEs](https://www.fabriziomusacchio.com/blog/2020-10-03-runge_kutta/). For further details, please refer to this post.
 
+![img](satellites_orbit.gif)
 
 For reproducibility:
 
